@@ -2,7 +2,8 @@
 
 # Create a static library for the module
 add_library(ModuleName STATIC
-    Source/ModuleName.cpp
+    Source/module.cpp
+    Source/module.h
     # Add additional source files as necessary
 )
 

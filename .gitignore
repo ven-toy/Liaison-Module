@@ -1,7 +1,6 @@
 # Directories
 .vs/
 .idea/
-Binaries/
 cmake-build-debug/
 
 # Files
@@ -11,9 +10,6 @@ cmake-build-debug/
 *.sln
 *.log
 Makefile
-
-# Exclude
-!Vendor/Binaries
 
 # Prerequisites
 *.d
